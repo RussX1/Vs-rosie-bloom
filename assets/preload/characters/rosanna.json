@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				178,
+				-15
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "angry rosanna idle"
+		},
+		{
+			"offsets": [
+				-20,
+				7
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "angry rosanna left"
+		},
+		{
+			"offsets": [
+				77,
+				-133
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "angry rosanna right"
+		},
+		{
+			"offsets": [
+				81,
+				-142
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "angry rosanna down"
+		},
+		{
+			"offsets": [
+				229,
+				114
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "angry rosanna up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rosie_assets 2",
+	"position": [
+		0,
+		70
+	],
+	"healthicon": "mom",
+	"flip_x": false,
+	"healthbar_colors": [
+		216,
+		85,
+		142
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
